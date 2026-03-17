@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : VIGNESH V</H3>
 <H3>REGISTER NO : 212223230241</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:14-03-2026</H3>
+<H3>DATE:17-03-2026</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
